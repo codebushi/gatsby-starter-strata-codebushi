@@ -1,26 +1,21 @@
-# gatsby-starter-default
-The default Gatsby starter.
+# gatsby-starter-strata-v2
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
+**This is a starter for Gatsby.js V2.**
 
-## Install
+**The older V1 version of this starter can be found at:**
+<br/>
+**https://github.com/ChangoMan/gatsby-starter-strata**
 
-Make sure that you have the Gatsby CLI program installed:
-```sh
-npm install --global gatsby-cli
-```
+Gatsby.js V2 starter based on the Strata site template, designed by HTML5 UP. Check out https://codebushi.com/gatsby-starters/ for more Gatsby starters and templates.
 
-And run from your CLI:
-```sh
-gatsby new gatsby-example-site
-```
+## Preview
 
-Then you can run it by:
-```sh
-cd gatsby-example-site
-gatsby develop
-```
+http://gatsby-strata.surge.sh/
 
-## Deploy
+## Installation
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+Install this starter (assuming Gatsby is installed) by running from your CLI:
+<br/>
+`gatsby new gatsby-starter-strata https://github.com/codebushi/gatsby-starter-strata-v2`
+
+Run `gatsby develop` in the terminal to start the dev site.
