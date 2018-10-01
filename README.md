@@ -10,7 +10,7 @@ Gatsby.js V2 starter based on the Strata site template, designed by HTML5 UP. Ch
 
 ## Preview
 
-http://gatsby-strata.surge.sh/
+https://gatsby-strata.surge.sh/
 
 ## Installation
 
